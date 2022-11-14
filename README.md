@@ -1,5 +1,7 @@
 # geotools-kml-samples
 
+Demo of kml manipulation with geotools written in Kotlin
+
 ## Java setup
 
 Install `sdkman`
